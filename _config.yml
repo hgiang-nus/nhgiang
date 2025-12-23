@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "portrait.jpg"
   name             : "Jan Nguyen"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "PhD Student, Strategy & Policy"
   location         : # "Earth"
   employer         : "NUS Business School"
