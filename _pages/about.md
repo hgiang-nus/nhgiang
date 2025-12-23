@@ -13,6 +13,9 @@ My research interests include global value chains, firm heterogeneity, environme
 
 I previously worked as a Research Associate at the Asian Development Bank, where I supported a randomized controlled trial in the banking sector. 
 
-Contact: huonggiang@u.nus.edu/huonggiang.econ@email.com
+contact:
+  email:
+    - "huonggiang@u.nus.edu"
+    - "huonggiang.econ@email.com"
 ======
 

@@ -8,10 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+    
+  - title: "CV"
+  #  url: /cv/
+    url: /files/CV_HGiang_Oct25.pdf
+
   - title: "Research"
     url: /publications/
+  
+  - title: "Blog"
+    url: /year-archive/
 
-  - title: "Trade Blogs"
+  - title: "Trade & Sustainability"
     url: /talks/    
 
   #- title: "Teaching"
@@ -20,12 +28,7 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
-    
-  - title: "CV"
-  #  url: /cv/
-    url: /files/CV_HGiang_Oct25.pdf
+
     
   # - title: "CV"
   #   url: /cv-json/
