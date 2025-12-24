@@ -14,13 +14,13 @@ main:
     url: /files/CV_HGiang_Oct25.pdf
 
   - title: "Research"
-    url: /publications/
+    url: /research/
   
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
 
-  - title: "Trade & Sustainability"
-    url: /talks/    
+  - title: "Useful source"
+    url: /source/    
 
   #- title: "Teaching"
   #  url: /teaching/    
